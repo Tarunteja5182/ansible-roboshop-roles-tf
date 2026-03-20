@@ -1,11 +1,11 @@
 ansible_user: ec2-user
 ansible_password: DevOps321
 MONGODB_HOST: mongodb-dev.mbops.online
-CATALOGUE_HOST: catalogue-dev.mbops.online
+CATALOGUE_HOST: catalogue.roboshop-dev-backend-alb.mbops.online
 REDIS_HOST: redis-dev.mbops.online
-USER_HOST: user-dev.mbops.online
-CART_HOST: cart-dev.mbops.online
+USER_HOST: user.roboshop-dev-backend-alb.mbops.online
+CART_HOST: cart.roboshop-dev-backend-alb.mbops.online
 MYSQL_HOST: mysql-dev.mbops.online
-SHIPPING_HOST: shipping-dev.mbops.online
+SHIPPING_HOST: shipping.roboshop-dev-backend-alb.mbops.online
 RABBITMQ_HOST: rabbitmq-dev.mbops.online
-PAYMENT_HOST: payment-dev.mbops.online
+PAYMENT_HOST: payment.roboshop-dev-backend-alb.mbops.online
